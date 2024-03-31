@@ -4,9 +4,8 @@ let handler = async m => m.reply(`
 │ 📂 *BOT Name:* _ՏͲᎪᎡ-ᎷᎠ-Ꮩ2_
 │ 📝 *Description:* _I'm STAR-MD-V2. A  
 ┃MultiDevice WhatsApp bot with rich features  ┃Created BY +2347045035241._
-│ 👤 *Owner:* _乇乂匚乇ㄥ_
-│ 🌐 *Channel:* https://whatsapp.com/channel
-┃/0029Va9wmuz8F2pGIURwmo0m
+│ 👤 *Owner:* _IZANA_
+│ ⛔ I don't have a channel
 ╰━━━━━━━━━━━━━━━━╯
 `.trim())
 handler.help = ['channel']
