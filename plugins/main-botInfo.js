@@ -51,19 +51,15 @@ let infobt = `
 ╭───•••✧ᎠᎬᏙᎬᏞϴᏢᎬᎡ✧••••───╮
 ┃ *≡*. 
 │ ➫「 *ՏͲᎪᎡ-ᎷᎠ-Ꮩ2* 」
-│ ➫ *Name    :* Excel
-│ ➫ *Place   :* Nigeria
+│ ➫ *Name    :* IZANA
+│ ➫ *Place   :* TUNISIA 
 │ ➫ *Gender  :*  ᴍᴀʟᴇ
-│➫ *Age     :* _15
-│ ➫ *Phone   :* wa.me/2347045035241
+│➫ *Age     :* _18
+│ ➫ *Phone   :* wa.me/5491128630079
 │ ➫ *TT      :*  https://tiktok.com
-/@xcelsama
-│ ➫ *GitHub  :* https://github.com/Xcelsama
-│ ➫ *TT *:- https://tiktok.com/@xcelsama
-│ ➫ *Channel* :https://whatsapp.com/
-channel/0029Va9wmuz8F2pGIURwmo0m
+/@6.m3e
+│ ➫ *GitHub  :* https://github.com/Simo1234566
 │ ➫ *Status  :* ᎠᎬᏴႮᏀᏀᏆΝᏀ ᏟϴᎠᎬ._
-┃ 
 ┃© STAR-MD-V2 BY EXCEL
 ⚡ *STATE* ⚡
 ➫ *${groupsIn.length}* GROUP CHATS
