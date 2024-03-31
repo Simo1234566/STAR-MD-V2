@@ -2,25 +2,13 @@ let handler = async m => m.reply(`
 
 
 
-
-⎯꯭̽ *GROUPS*⎯꯭̽.
-─━━━✧✿✧━━━─
-
-Group1:
-_____________________
-https://chat.whatsapp.com/EmP3syvou18HrZk6R6nTAK
-_______________________
-
-Group2:
-_______________________
-https://chat.whatsapp.com/FdwbFnI8Fcf4VTVvFTFk08"
-_________________________
+NO GROUPS NOW, MAYBE LATER 
 
 *DEVELOPER*/
 
 1:__________________🔰 *MOD'S* 🔰_
-wa.me/2347045035241
-*AMADI EXCEL*
+wa.me/5491128630079
+*AMADI IZANA*
 _______________________
 𝐋ᶦᵏᵉ  𝐂ᵒᵐᵐᵉⁿᵗ   𝐒ᵃᵛᵉ   𝐒ʰᵃʳᵉ
 💫   🍷   🎊   🍁   🌙   🪄 
