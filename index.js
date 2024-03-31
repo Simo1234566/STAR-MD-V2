@@ -23,7 +23,7 @@ say("STAR - V2", {
   'maxLength': '15'
 });
 
-say("STAR-BOT-V2 By Excel._.", {
+say("STAR-BOT-V2 By Izana._.", {
   'font': "chrome",
   'align': "center",
   'colors': ["red", "magenta"],
