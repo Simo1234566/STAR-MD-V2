@@ -57,17 +57,16 @@ let handler = async (m, { conn }) => {
     let { stargazers_count, forks, owner, created_at, html_url } = repo_Data.data;
 
     let infobt = `
-🔰 *I'm STAR-V2.* *A WhatsApp Advanced bot with Rich Exciting features* *Created By Excel*. 🔰
+🔰 *I'm STAR-V2.* *A WhatsApp Advanced bot with Rich Exciting features* *Created By Izana*. 🔰
 
  *✪  Stars:* ⭐stars ${stargazers_count} 
  *✪  Forks:* Forks 🍽 ${forks}  
- *✪  Author:*EXCEL AMADI* 😎
+ *✪  Author:*IZANA AMADI* 😎
  *✪  Deploy:*${created_at} 
  *✪  Repo:*  ${html_url}
- *✪  Scan:*  https://replit.com/@HopeAmadi*/STAR-MD-V2-PAIR-CODE?s=app
- *✪ Visit For Help:* https://wa.me/+2347045035241
+ *✪ Visit For Help:* https://wa.me/+5491128630079
   
-🔰 *ƈʀɛǟȶɛɖ ႦႸ Excel* 🔰
+🔰 *ƈʀɛǟȶɛɖ ႦႸ Izana* 🔰
 
 *🕣 S E R V E R*
 *🛑 RAM:* ${format(totalmem() - freemem())} / ${format(totalmem())}
